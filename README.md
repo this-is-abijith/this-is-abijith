@@ -163,12 +163,7 @@ class AbijithBinu:
 ## ◈ GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=this-is-abijith&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-abijith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=this-is-abijith&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff88&ring=00d4ff&fire=7b2ff7&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=this-is-abijith&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff88&ring=00d4ff&fire=7b2ff7&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" />
 </div>
 
 ---
@@ -185,8 +180,6 @@ class AbijithBinu:
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/this-is-abijith/this-is-abijith/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
