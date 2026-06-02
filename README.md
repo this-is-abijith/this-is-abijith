@@ -25,7 +25,7 @@
 ```python
 class AbijithBinu:
     def __init__(self):
-        self.role        = "AI/ML Engineer & Graduate Researcher"
+        self.role        = "AI/ML Engineer"
         self.education   = "MSc Artificial Intelligence @ Mahatma Gandhi University"
         self.location    = "Kerala, India 🇮🇳"
         self.focus       = ["Computer Vision", "Deep Learning", "NLP", "MLOps"]
@@ -34,7 +34,7 @@ class AbijithBinu:
 
     def current_work(self):
         return [
-            "🔬 Graduate Researcher @ Mahatma Gandhi University",
+            "🎓 Student @ Mahatma Gandhi University",
             "🧪 AI/ML Trainee @ Linnk Academy India, Kakkanad",
             "🚀 Building ML projects with Flask, Streamlit & React frontends",
         ]
@@ -48,7 +48,7 @@ class AbijithBinu:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Brain Tumor Detection
+### 🧠 [Brain Tumor Detection](https://github.com/this-is-abijith/brain-tumor-detection-ai)
 > Deep learning model for MRI scan classification with a production web interface.
 
 `PyTorch` `CNN` `Flask` `Medical AI`
@@ -84,36 +84,36 @@ class AbijithBinu:
 <tr>
 <td width="50%" valign="top">
 
-### 🤚 Hand Gesture Particle System
-> Real-time particle effects driven by hand landmarks using MediaPipe + canvas rendering.
+### 🤚 [Hand Gesture Volume Control](https://github.com/this-is-abijith/hand-gesture-volume-control)
+> Real-time hand landmark tracking to control system volume using MediaPipe + OpenCV.
 
-`MediaPipe` `JavaScript` `Computer Vision` `WebGL`
+`MediaPipe` `OpenCV` `Computer Vision` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Multimodal Video Summarizer
-> Extracts audio + visual context from video to generate intelligent summaries.
+### 🎬 [Multimodal Video Summarizer](https://github.com/this-is-abijith/multimodal-video-analyst)
+> AI Video Summarizer using Whisper, Llama 3, and Computer Vision.
 
-`Multimodal AI` `NLP` `Video Processing` `Transformers`
+`Multimodal AI` `NLP` `Whisper` `Llama 3`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Number Plate Detection
-> Automated license plate recognition system using computer vision.
+### 🚗 [Number Plate Detection](https://github.com/this-is-abijith/ai-number-plate-detector)
+> AI-powered license plate recognition system using YOLO and OCR.
 
-`OpenCV` `Object Detection` `Python`
+`YOLO` `OCR` `OpenCV` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 🦾 Iron Man AR Suit-Up
-> Real-time webcam AR suit-up experience using MediaPipe Hands & Pose — single-file HTML.
+### 🛡️ [SpamShield Classifier](https://github.com/this-is-abijith/SpamShield-Classifier)
+> SVM-based spam detection web app with a clean UI.
 
-`MediaPipe` `Pose Estimation` `AR` `HTML/CSS/JS`
+`SVM` `NLP` `Scikit-learn` `Flask`
 
 </td>
 </tr>
@@ -186,7 +186,6 @@ class AbijithBinu:
 
 <div align="center">
 
-<!-- Snake animation — requires GitHub Actions setup in your repo -->
 <img src="https://raw.githubusercontent.com/this-is-abijith/this-is-abijith/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
