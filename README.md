@@ -8,20 +8,6 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  > Initializing profile...                                      │
-│  > Loading: MSc AI @ Mahatma Gandhi University  ✓              │
-│  > Loading: AI/ML Trainee @ Linnk Academy India ✓              │
-│  > Stack: PyTorch · TensorFlow · OpenCV · Flask · React        │
-│  > Status: Building things that matter  █████████████  100%    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-abijith--ai.vercel.app-00ff88?style=for-the-badge&labelColor=0d1117&color=00ff88&logoColor=00ff88)](https://abijith-ai.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/abijith-binu)
@@ -197,7 +183,7 @@ class AbijithBinu:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/this-is-abijith/this-is-abijith/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 <br>
 
