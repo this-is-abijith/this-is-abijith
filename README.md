@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0d1117,100:001a0a&height=160&section=header&text=ABIJITH%20BINU&fontSize=52&fontColor=00ff88&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Kerala%2C%20India&descAlignY=80&descSize=16&descFontColor=00d4ff&stroke=00ff88&strokeWidth=2&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0d1117,100:001a0a&height=160&section=header&text=ABIJITH%20BINU&fontSize=52&fontColor=00ff88&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Kerala%2C%20India&descAlignY=80&descSize=16&descFontColor=00d4ff&stroke=00ff88&strokeWidth=2" />
 
 </div>
 
@@ -29,14 +29,30 @@ class AbijithBinu:
     name     = "Abijith Binu"
     degree   = "MSc Artificial Intelligence"
     uni      = "Mahatma Gandhi University, Kerala 🇮🇳"
-    role     = "AI/ML Trainee @ Linnk Academy India"
+    role     = "AI/ML Intern @ Linnk Academy India"
     focus    = ["Computer Vision", "Deep Learning",
                 "NLP", "Multimodal AI"]
     open_to  = "Internships · Research · Collabs"
     motto    = "Ship fast. Learn faster."
+
+    def current_mood(self):
+        return "debugging tensors ☕"
 ```
 
 <br clear="right"/>
+
+---
+
+## `$ cat now.txt`
+
+<div align="center">
+
+| 🔭 Exploring | 🛠️ Building | 🌱 Learning | 💬 Ask me about |
+|:---:|:---:|:---:|:---:|
+| Multimodal models | Vision + audio + language pipelines | RAG & LLM agents | CNNs, YOLO, Whisper |
+| Transfer learning | ML models as REST APIs & Telegram bots | Model optimization | Deploying ML to the web |
+
+</div>
 
 ---
 
@@ -132,6 +148,41 @@ class AbijithBinu:
 
 </div>
 
+<details>
+<summary><b>🎬 Under the hood: how the Multimodal Video Analyst works</b></summary>
+
+<br>
+
+```mermaid
+flowchart LR
+    A[🎥 Video input] --> B[Audio track]
+    A --> C[Frames]
+    B --> D[Whisper<br/>speech to text]
+    C --> E[Computer Vision<br/>scene understanding]
+    D --> F[Llama 3<br/>reasoning + summary]
+    E --> F
+    F --> G[📝 Final video summary]
+```
+
+Audio, visuals and language models each do what they do best, then get fused into one summary.
+
+</details>
+
+<details>
+<summary><b>🧠 Under the hood: Brain Tumor Detection pipeline</b></summary>
+
+<br>
+
+```mermaid
+flowchart LR
+    A[🩻 MRI scan] --> B[Preprocessing]
+    B --> C[CNN<br/>feature extraction]
+    C --> D[SVM<br/>classifier]
+    D --> E[Flask UI<br/>prediction result]
+```
+
+</details>
+
 ---
 
 ## `$ cat skills.json`
@@ -146,8 +197,21 @@ class AbijithBinu:
 | **Web & Deploy** | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **🌱 Leveling up** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Pipelines-00ff88?style=flat-square) |
 
 </div>
+
+---
+
+## `$ ./skill_levels.sh`
+
+```text
+Python / PyTorch      ████████████████░░░░  80%
+Computer Vision       ███████████████░░░░░  75%
+Classical ML          ███████████████░░░░░  75%
+NLP / LLMs            ████████████░░░░░░░░  60%
+Deployment / MLOps    ██████████░░░░░░░░░░  50%   ← leveling up
+```
 
 ---
 
@@ -164,6 +228,10 @@ class AbijithBinu:
 </div>
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=this-is-abijith&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+</div>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=this-is-abijith&bg_color=0d1117&color=00ff88&line=00d4ff&point=7b2ff7&area=true&hide_border=true&area_color=001a0a" />
 </div>
 
@@ -175,9 +243,39 @@ class AbijithBinu:
 [ACTIVE]  ██ Building multimodal AI pipelines (vision + audio + language)
 [ACTIVE]  ██ Deploying ML models as production REST APIs & Telegram bots
 [ACTIVE]  ██ Exploring transfer learning & model optimization techniques
+[ACTIVE]  ██ Learning RAG, LLM agents and containerized deployment
 [QUEUED]  ░░ Research publication on deep learning applications
 [QUEUED]  ░░ Open-source contributions to CV/NLP tooling
+[QUEUED]  ░░ Turn the best projects into live, hosted demos
 ```
+
+---
+
+## `$ ./roadmap.sh`
+
+```mermaid
+timeline
+    title Build log
+    Foundations : Python + Scikit-learn : Spam, rainfall and Bitcoin predictors
+    Deep Learning : CNNs and ResNet18 : Brain tumor detection and waste classification
+    Computer Vision : YOLO, OpenCV and MediaPipe : Number plates and gesture control
+    Multimodal : Whisper + Llama 3 + CV : Video analyst pipeline
+    Next : RAG and agents : Docker + FastAPI deployment : Research paper
+```
+
+---
+
+## `$ ./collab --open`
+
+<div align="center">
+
+**Looking for:** 🎓 AI/ML internships &nbsp;·&nbsp; 🔬 research collaborations &nbsp;·&nbsp; 🤝 open-source CV/NLP projects
+
+Got a vision, audio or language problem worth solving? **[Email me](mailto:abijithbinu654@gmail.com)** or **[DM on LinkedIn](https://linkedin.com/in/abijith-binu)**.
+
+⭐ *If a project here helped you, a star makes my day.*
+
+</div>
 
 ---
 
@@ -197,8 +295,8 @@ class AbijithBinu:
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║   "The best way to predict the future is to build   ║
-║    it with code, data, and a lot of coffee."        ║
+║   "The best way to predict the future is to build    ║
+║    it with code, data, and a lot of coffee."         ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
