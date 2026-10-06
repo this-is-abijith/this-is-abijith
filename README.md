@@ -206,11 +206,11 @@ flowchart LR
 ## `$ ./skill_levels.sh`
 
 ```text
-Python / PyTorch      ████████████████░░░░  80%
-Computer Vision       ███████████████░░░░░  75%
-Classical ML          ███████████████░░░░░  75%
-NLP / LLMs            ████████████░░░░░░░░  60%
-Deployment / MLOps    ██████████░░░░░░░░░░  50%   ← leveling up
+Python / PyTorch      ████████████████░░░░  
+Computer Vision       ███████████████░░░░░  
+Classical ML          ███████████████░░░░░  
+NLP / LLMs            ████████████░░░░░░░░  
+Deployment / MLOps    ██████████░░░░░░░░░░  
 ```
 
 ---
